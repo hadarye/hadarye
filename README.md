@@ -3,8 +3,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80vw"/>
 </div>
-<a href="https://www.linkedin.com/in/hadar-yeheskiel-22604b27a" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<a href="https://www.linkedin.com/in/hadar-yeheskiel-22604b27a">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <h1 align="center">
   hey there
