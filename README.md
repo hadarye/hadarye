@@ -1,7 +1,12 @@
+<div>
 ### Hi there 👋
+  <a href="https://www.linkedin.com/in/hadar-yeheskiel-22604b27a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100vw"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80vw"/>
 </div>
 
 <!--
