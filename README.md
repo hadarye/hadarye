@@ -14,7 +14,7 @@
 
 
 ### :woman_technologist: About Me:
-- 🔭 I'm a Front End developer working on websites and web applications.
+- 🔭 I'm a Full Stack developer working on websites and web applications.
 - 😄 Interested in UX / UI design.
 - 🌱 I'm currently learning Node JS.
 
