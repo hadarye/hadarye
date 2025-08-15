@@ -12,12 +12,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-### :woman_technologist: About Me:
-- 🔭 I'm a Full Stack developer working on websites and web applications.
-- 😄 Interested in UX / UI design.
-- 🌱 I'm currently learning Node JS.
-
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
